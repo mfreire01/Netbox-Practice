@@ -1,4 +1,5 @@
 # Netbox-Practice
+![Netbox Logo](https://idroot.us/wp-content/uploads/2023/01/NetBox-logo.png)
 ## Setup
 Follow these instructions [link](https://netboxlabs.com/docs/netbox/installation/)
 - **PostgreSQL**
