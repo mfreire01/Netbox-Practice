@@ -1,0 +1,2 @@
+# Netbox-Practice
+Netbox + Django 
